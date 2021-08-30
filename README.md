@@ -2,7 +2,7 @@
 <div style="display: inline_block">
   <a href="https://github.com/pixelrgb255">
   <img height="160em" width="380" src="https://github-readme-stats.vercel.app/api?username=pixelrgb255&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelrgb255&layout=compact&langs_count=7&theme=white"/>
+  <img height="180em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelrgb255&layout=compact&langs_count=7&theme=white"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">

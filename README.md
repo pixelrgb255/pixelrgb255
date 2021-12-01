@@ -1,3 +1,4 @@
+<img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <div style="display: inline_block">
   <a href="https://github.com/pixelrgb255">

@@ -6,14 +6,14 @@
 <img src="https://i.pinimg.com/564x/11/7c/e6/117ce6b288272befd63099a4854fc5bb.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt=" IWantToMarryMirko">
 
 <p align="left"> 
-    Yet another sailor in the vast sea of the internet, building anything my heart desires! Most of my projects are gaming-related, front-end, or fullstack. Currently focused on creating small Unity and Renpy games. <br>Bunni enjoyer.
+    Yet another sailor in the vast sea of the internet, building anything my heart desires! Most of my projects are gaming-related, front-end, or fullstack. Currently focused on creating small Unity and Renpy games. <br>Also your average anime fan and bunni enjoyer.
 </p>
 
 <p align="left">
-  🐰 Languages I code in: <strong>C Sharp, Python, HTML, CSS, JavaScript.</strong><br/>
-  🐰 Currently Learning: <strong>Unity, Renpy.</strong>
+  🐰 Languages I code in: <strong>C#, Python, HTML, CSS, JavaScript.</strong><br/>
+  🐰 Currently Learning: <strong>Unity(C#), Renpy(Python).</strong>
 </p>
-
+<br/><br/>
 <div style="display: inline_block">
   <img align="center" alt="Csharp" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
   <img align="center" alt="Python" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">

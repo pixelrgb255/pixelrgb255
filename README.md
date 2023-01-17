@@ -21,4 +21,4 @@
   Other places you can find me
 </h2>
 
-Discord:
+Discord: <strong>mingauu#0253<strong/>

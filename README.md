@@ -1,5 +1,5 @@
 <h2>
-  <img src="https://media.tenor.com/yO66SSOovKAAAAAj/rabbit.gif" width="36px">
+  <img src="https://media.tenor.com/tD0bGcxgIFcAAAAj/machiko-rabbit.gif" width="36px">
   About me
 </h2>
 

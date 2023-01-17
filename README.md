@@ -5,7 +5,8 @@
   <img src="https://media.tenor.com/yO66SSOovKAAAAAj/rabbit.gif" width="36px">
   About me
 </h2>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<img src="https://i.pinimg.com/564x/11/7c/e6/117ce6b288272befd63099a4854fc5bb.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   <div>

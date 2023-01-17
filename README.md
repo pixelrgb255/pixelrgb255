@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>C Sharp, Python, HTML, CSS, JavaScript.</strong>
+  🦄 Languages I code in: <strong>C Sharp, Python, HTML, CSS, JavaScript.</strong>
 </p>
 
 <p align="left">
@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
-<h3>Some of the programming languages I use</h3>
 <div style="display: inline_block">
   <img align="center" alt="Csharp" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
   <img align="center" alt="Python" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">

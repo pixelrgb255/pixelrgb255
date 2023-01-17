@@ -7,7 +7,7 @@
 
 <p align="left"> 
   <div>
-    Yet another sailor in the vast sea of the internet. Shrouded in anonimity, building anything my heart desires. Most of my projects are gaming-related, front-end, or fullstack. Currently focused on creating small Unity and Renpy games.
+    Yet another sailor in the vast sea of the internet building anything my heart desires. Most of my projects are gaming-related, front-end, or fullstack. Currently focused on creating small Unity and Renpy games.
   </div>
 </p>
 
